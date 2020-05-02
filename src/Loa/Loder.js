@@ -12,7 +12,7 @@ function Loder(props) {
         width: 50,
         height : 50,
         marginTop: hi ,
-        // marginLeft: '38%'
+        
       
       };
       

@@ -7,7 +7,7 @@ function Bod() {
         color : 'white',
         textAlign : 'center',
         // marginTop : '0px',
-        // height: '40px'
+        
         // width : '50%',
         height : 60 ,
     }
