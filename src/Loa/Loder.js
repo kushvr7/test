@@ -14,7 +14,7 @@ function Loder(props) {
         marginTop: hi ,
         
       
-      };
+};
       
 
 

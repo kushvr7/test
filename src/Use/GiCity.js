@@ -7,7 +7,7 @@ function GiCity(props) {
          city: ""
      })
 
-     
+
      const handleChange = (event) => {
 
         setstate({
@@ -58,5 +58,6 @@ function GiCity(props) {
         
     )
 }
+
 
 export default Radium(GiCity);
